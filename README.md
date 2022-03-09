@@ -1,2 +1,2 @@
 # hrai
-AI mased software for HR
+A Politecnico di Milano AI-based software project for HR
