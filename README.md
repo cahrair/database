@@ -3,10 +3,31 @@
 
 ## Description
 
+---
+
 ## How to contribute
-1. Upload database files inside of a single folder, in root directory
-2. Include `README.md` file inside of the folder describing data content, source, ammount.
+1. Upload a folder with database files inside, in root directory. [How](README.md/#how-to-upload)
+2. Include `README.md` file inside of the folder describing the content.
 
 
-## List of databases
+### How to upload new databases
+1. Ask Jan
 
+2. Use Git:
+- [Download](https://github.com/cahrair/database/archive/refs/heads/main.zip) or clone repository using this command
+```
+git clone git@github.com:cahrair/database.git
+```
+- move new data into ```database``` folder, you've just downloaded
+- once you've added new data, cd into ```database``` folder and execute
+```
+git add *insert name of mew folder*
+```
+and
+```
+git commit -am "added *insert name of mew database* database"
+```
+then finally
+```
+git push
+```
