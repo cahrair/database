@@ -1,4 +1,4 @@
-# Colloection of databases for HR AI
+# Collection of databases for HR AI
 *Envisioning Al Through Design at Politecnico di Milano*
 
 ## Description
@@ -6,7 +6,7 @@
 ---
 
 ## How to contribute
-1. Upload a folder with database files inside, in root directory. [How](https://github.com/cahrair/database)
+1. Upload a folder with database files inside, in root directory.
 2. Include `README.md` file inside of the folder describing the content.
 
 
