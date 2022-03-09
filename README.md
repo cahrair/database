@@ -6,12 +6,12 @@
 ---
 
 ## How to contribute
-1. Upload a folder with database files inside, in root directory. [How](README.md/#how-to-upload)
+1. Upload a folder with database files inside, in root directory. [How](https://github.com/cahrair/database)
 2. Include `README.md` file inside of the folder describing the content.
 
 
 ### How to upload new databases
-1. Ask Jan
+1. Ask Jan to do it for you
 
 2. Use Git:
 - [Download](https://github.com/cahrair/database/archive/refs/heads/main.zip) or clone repository using this command
